@@ -12,10 +12,6 @@ function CategoryFilter({ categories, selectedCategory, onSelectCategory }) {
       </button>
     );
   });
-
-
-
-  
   return (
     <div className="categories">
       <h5>Category filters</h5>
